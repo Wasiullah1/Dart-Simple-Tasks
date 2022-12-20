@@ -1,0 +1,14 @@
+ To define methods with formal parameters
+■ To invoke methods with actual parameters (i.e., arguments) 
+■ To define methods with a return value
+■ To define methods without a return value 
+■ To pass arguments by value 
+■ To develop reusable code that is modular, easy to read, easy to debug, 
+and easy to maintain 
+■ To write a method that converts hexadecimals to decimals 
+■ To use method overloading and understand ambiguous overloading 
+(§6.8).
+■ To determine the scope of variables
+■ To apply the concept of method abstraction in software development 
+(§6.10).
+■ To design and implement methods using stepwise refinement 
