@@ -1,0 +1,32 @@
+Main Menu
+1 Create TV
+2 Modify TV
+
+if User selects :1
+TV created Successfuly
+
+1 Create TV
+2 Modify TV
+
+if user selects :1
+TV created Successfuly
+
+1 Create Tv
+2 Modify Tv
+3 showTVsStatus
+4 exit
+
+if user Selects :2
+1
+2
+
+if user selects 1 TV
+1 onOFF
+2 ChannelUp
+3 ChannelDown
+4 VolumeUp
+5 VolumeDown
+0 Main Menu
+
+
+ 
